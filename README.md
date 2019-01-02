@@ -22,7 +22,7 @@ optional arguments:
                         string to prime generation with ('I love' by default)
 ```
                         
-### Exemples
+### Examples
 Generate a song of 100 words
 ```
 $ python generate.py 100
